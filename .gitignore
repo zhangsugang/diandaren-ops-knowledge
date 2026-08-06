@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+node_modules/
+.env
+*.mp4
+*.mov
+*.wav
+*.srt
